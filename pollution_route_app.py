@@ -5,7 +5,7 @@ from folium.plugins import BeautifyIcon
 from streamlit_folium import st_folium
 
 # Set your OpenWeatherMap API Key here
-OPENWEATHER_API_KEY = 'b3e34a4babb126488974ec5a5de3f057'
+OPENWEATHER_API_KEY = 'some_api_key'
 OSRM_SERVER_URL = "http://router.project-osrm.org"
 
 # Function to get air quality from OpenWeatherMap API
