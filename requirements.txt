@@ -1,4 +1,5 @@
-streamlit 
+streamlit
+streamlit_folium 
 requests 
 folium 
 openlocationcode
